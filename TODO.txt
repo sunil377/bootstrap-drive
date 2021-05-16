@@ -1,0 +1,13 @@
+# imporve PROGRESS BAR  for if error happen and color change
+
+# build notification for SHow error on dashBoard and means for whole App
+
+# improve dashboard like build section for clearty
+
+# build validation for Forms like signup and login etc...
+
+# how to show spinner for loading img
+
+# Add signIn with google
+
+# add a dark mode
